@@ -1,16 +1,17 @@
-Vídeo: Socorrrooooooo🎥
+Vídeo: Gen X🎥
 📒 Descrição
-Este vídeo apresenta o desespero da geração X ao tentar se atualizar em um mundo em que as mudanças tecnologicas acontecem em uma rapidez absurda.
+Este vídeo é uma sátira da geração X ao tentar se atualizar em um mundo em que as mudanças tecnologicas.
 
 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteiro;
-IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+ ChatGPT para roteiro;
+ ElevenLabs para criar aúdio;
+D-ID para criação de avatar virtual e geração de vídeo.
 
 🧐 Processo de Criação
-Utilizei o ChatGPT para escrever o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Utilizei o ChatGPT para escrever o roteiro do vídeo. O ElevenLabs utilizei para criar o aúdio. O D-ID foi essencial para criar um avatar virtual, trazendo uma dimensão futurística ao vídeo. 
 
 🚀 Resultados
-O vídeo traz para o espectador as difuculdades de uma pessoa da geração X se adaptar as novas tencnologias.
+O vídeo traz para ao espectador um sátira das difuculdades de uma pessoa da geração X para se adaptar as novas tencnologias.
 
 LINK PARA O VÍDEO AQUI
 
