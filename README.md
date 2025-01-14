@@ -1,4 +1,5 @@
 Vídeo: Gen X🎥
+
 📒 Descrição
 Este vídeo é uma sátira da geração X ao tentar se atualizar em um mundo em que as mudanças tecnologicas.
 
@@ -14,6 +15,9 @@ Utilizei o ChatGPT para escrever o roteiro do vídeo. O ElevenLabs utilizei para
 O vídeo traz para ao espectador um sátira das difuculdades de uma pessoa da geração X para se adaptar as novas tencnologias.
 
 LINK PARA O VÍDEO AQUI
+
+https://github.com/user-attachments/assets/604be7c6-186e-4aab-832d-aab21f83c235
+
 
 💭 Reflexão
 Este projeto foi um desafio. As IAs Generativas sao ferramentas poderosas e conhece-las e utiliza-las foi engrandecedor.
